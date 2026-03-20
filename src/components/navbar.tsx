@@ -72,7 +72,7 @@ export function Navbar() {
         {isLoggedIn ? (
           <>
             <Link
-              href="/profile"
+              href="/profile/1"
               className="text-[0.78rem] font-medium tracking-[0.1em] uppercase text-[#7a7874] hover:text-foreground transition-colors"
             >
               个人主页
@@ -127,7 +127,7 @@ export function Navbar() {
             ))}
             {isLoggedIn ? (
               <>
-                <Link href="/profile" onClick={() => setMobileOpen(false)} className="text-sm font-medium tracking-widest uppercase text-[#7a7874]">
+                <Link href="/profile/1" onClick={() => setMobileOpen(false)} className="text-sm font-medium tracking-widest uppercase text-[#7a7874]">
                   个人主页
                 </Link>
                 <Link href="/upload" onClick={() => setMobileOpen(false)} className="text-sm font-medium tracking-widest uppercase text-gold border border-gold px-6 py-2 rounded-sm">
