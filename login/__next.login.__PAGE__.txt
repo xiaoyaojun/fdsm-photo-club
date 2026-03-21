@@ -3,7 +3,7 @@
 3:I[94542,["/fdsm-photo-club/_next/static/chunks/01xlw8hd842-c.js","/fdsm-photo-club/_next/static/chunks/0d3shmwh5_nmn.js","/fdsm-photo-club/_next/static/chunks/08zq9q6~tvbp7.js"],"default"]
 6:I[97367,["/fdsm-photo-club/_next/static/chunks/01xlw8hd842-c.js","/fdsm-photo-club/_next/static/chunks/0d3shmwh5_nmn.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/fdsm-photo-club/_next/static/chunks/08zq9q6~tvbp7.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"nI4hfr2HT7-S6OMW7hGJW"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/fdsm-photo-club/_next/static/chunks/08zq9q6~tvbp7.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"qk4pZcy0DUt_EWiLzAYKC"}
 4:{}
 5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
 8:null
